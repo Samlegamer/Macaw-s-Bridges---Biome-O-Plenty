@@ -1,0 +1,37 @@
+{
+    "variants": {
+        "facing=west,part=middle,lit=false": { "model": "macawsbridgesbop:block/cherry_log_bridge_middle", "y": 90  },
+        "facing=north,part=middle,lit=false": { "model": "macawsbridgesbop:block/cherry_log_bridge_middle", "y": 180 },
+        "facing=east,part=middle,lit=false": { "model": "macawsbridgesbop:block/cherry_log_bridge_middle", "y": 270 },
+        "facing=south,part=middle,lit=false": { "model": "macawsbridgesbop:block/cherry_log_bridge_middle"  },
+        
+     	"facing=west,part=end2,lit=false": { "model": "macawsbridgesbop:block/cherry_log_bridge_end", "y": 270  },
+        "facing=north,part=end2,lit=false": { "model": "macawsbridgesbop:block/cherry_log_bridge_end", "y": 0 },
+        "facing=east,part=end2,lit=false": { "model": "macawsbridgesbop:block/cherry_log_bridge_end", "y": 90 },
+        "facing=south,part=end2,lit=false": { "model": "macawsbridgesbop:block/cherry_log_bridge_end", "y": 180  },	
+		
+        "facing=west,part=end,lit=false": { "model": "macawsbridgesbop:block/cherry_log_bridge_end", "y": 90  },
+        "facing=north,part=end,lit=false": { "model": "macawsbridgesbop:block/cherry_log_bridge_end", "y": 180 },
+        "facing=east,part=end,lit=false": { "model": "macawsbridgesbop:block/cherry_log_bridge_end", "y": 270 },
+        "facing=south,part=end,lit=false": { "model": "macawsbridgesbop:block/cherry_log_bridge_end"  },	
+		
+
+		
+		
+		"facing=west,part=middle,lit=true": { "model": "macawsbridgesbop:block/lit/cherry_log_bridge_middle_lit", "y": 90  },
+        "facing=north,part=middle,lit=true": { "model": "macawsbridgesbop:block/lit/cherry_log_bridge_middle_lit", "y": 180 },
+        "facing=east,part=middle,lit=true": { "model": "macawsbridgesbop:block/lit/cherry_log_bridge_middle_lit", "y": 270 },
+        "facing=south,part=middle,lit=true": { "model": "macawsbridgesbop:block/lit/cherry_log_bridge_middle_lit"  },
+					
+     	"facing=west,part=end2,lit=true": { "model": "macawsbridgesbop:block/lit/cherry_log_bridge_end_lit", "y": 270  },
+        "facing=north,part=end2,lit=true": { "model": "macawsbridgesbop:block/lit/cherry_log_bridge_end_lit", "y": 0 },
+        "facing=east,part=end2,lit=true": { "model": "macawsbridgesbop:block/lit/cherry_log_bridge_end_lit", "y": 90 },
+        "facing=south,part=end2,lit=true": { "model": "macawsbridgesbop:block/lit/cherry_log_bridge_end_lit", "y": 180  },	
+		
+        "facing=west,part=end,lit=true": { "model": "macawsbridgesbop:block/lit/cherry_log_bridge_end_lit", "y": 90  },
+        "facing=north,part=end,lit=true": { "model": "macawsbridgesbop:block/lit/cherry_log_bridge_end_lit", "y": 180 },
+        "facing=east,part=end,lit=true": { "model": "macawsbridgesbop:block/lit/cherry_log_bridge_end_lit", "y": 270 },
+        "facing=south,part=end,lit=true": { "model": "macawsbridgesbop:block/lit/cherry_log_bridge_end_lit"  }	
+		
+    }
+}
