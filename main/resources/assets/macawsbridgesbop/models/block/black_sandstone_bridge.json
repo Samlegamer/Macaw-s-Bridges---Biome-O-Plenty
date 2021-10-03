@@ -1,0 +1,8 @@
+{
+	"parent": "mcwbridges:block/parent/brick_bridge",
+	"textures": {
+		"0": "biomesoplenty:block/black_sand",
+		"2": "biomesoplenty:block/black_sandstone",
+		"particle": "biomesoplenty:block/black_sandstone"
+	}
+}
