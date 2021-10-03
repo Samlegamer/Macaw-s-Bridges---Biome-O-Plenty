@@ -1,0 +1,11 @@
+{
+	"parent": "mcwbridges:block/parent/lit/rope_bridge",
+	"textures": {
+		"5": "mcwbridges:block/lead_knot_vert",
+		"1_0": "minecraft:block/torch",
+		"2": "biomesoplenty:block/redwood_planks",
+		"4": "mcwbridges:block/lead_knot",
+		"3": "biomesoplenty:block/redwood_log_top",
+      	"particle": "biomesoplenty:block/redwood_planks"
+	}
+}

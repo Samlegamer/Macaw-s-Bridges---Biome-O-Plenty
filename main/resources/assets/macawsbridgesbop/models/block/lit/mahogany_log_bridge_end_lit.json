@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/parent/lit/log_bridge_end",
+	"textures": {
+		"0": "biomesoplenty:block/mahogany_log",
+		"2": "biomesoplenty:block/mahogany_planks",
+		"1_0": "minecraft:block/torch",
+		"particle": "biomesoplenty:block/mahogany_log"
+	}
+}

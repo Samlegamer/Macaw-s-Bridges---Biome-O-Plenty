@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/parent/lit/log_bridge_end",
+	"textures": {
+		"0": "biomesoplenty:block/dead_log",
+		"2": "biomesoplenty:block/dead_planks",
+		"1_0": "minecraft:block/torch",
+		"particle": "biomesoplenty:block/dead_log"
+	}
+}

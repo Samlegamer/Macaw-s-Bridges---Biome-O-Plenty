@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/parent/lit/brick_bridge",
+	"textures": {
+		"0": "biomesoplenty:block/white_sand",
+		"2": "biomesoplenty:block/white_sandstone",
+		"1_0": "minecraft:block/torch",
+		"particle": "biomesoplenty:block/white_sandstone"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/parent/lit/log_bridge_middle",
+	"textures": {
+		"0": "biomesoplenty:block/cherry_log",
+		"2": "biomesoplenty:block/cherry_planks",
+		"1_0": "minecraft:block/torch",
+		"particle": "biomesoplenty:block/cherry_log"
+	}
+}
